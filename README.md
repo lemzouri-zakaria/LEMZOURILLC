@@ -1,25 +1,22 @@
 # LEMZOURI LLC
 
-Innovative digital solutions, web applications, SaaS platforms and mobile development.
+Technology Solutions LLC
 
 ## About
 
-LEMZOURI LLC is focused on building modern digital products for businesses, startups and entrepreneurs.
+LEMZOURI LLC develops innovative digital solutions including web applications, SaaS platforms, mobile applications and business automation tools.
 
 ## Services
 
-- Web Applications
+- Web Development
 - SaaS Platforms
 - Mobile Applications
-- Digital Solutions
 - IT Consulting
+- Digital Solutions
 
-## Website
+## Legal
 
-Official company website and digital agency showcase.
+Copyright © 2026 LEMZOURI LLC. All Rights Reserved.
 
-## Copyright
+LEMZOURI LLC names, logos, trademarks and visual branding remain the property of LEMZOURI LLC.
 
-© 2026 LEMZOURI LLC. All Rights Reserved.
-
-The company name, logos, branding elements and website content are the exclusive property of LEMZOURI LLC.
